@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d32a3df-b5f4-4a18-b5e1-422ded15d161" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab1/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmu_bah_lab14_java.iml" />
-    </list>
+    <list default="true" id="1d32a3df-b5f4-4a18-b5e1-422ded15d161" name="Default" comment="" />
     <ignored path="gmu_bah_lab14_java.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
